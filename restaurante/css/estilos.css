@@ -1,0 +1,59 @@
+.Logo {
+    width: 120px;
+}
+.text-white{
+    font-size: 20px;
+    font-weight: bold;
+}
+.menu{
+    z-index: 10;
+}
+.sesion-2{
+    background-image: url("../imagenes/Fondo.jpg");
+    background-size: cover;
+}
+h1,h2{
+    font-family: 'Pacifico', cursive;
+}
+.sesion-3{
+    background-image: url("../imagenes/Fondo\ 2\ imagen.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.banner{
+    background-image: url("../imagenes/Fondo\ imagen.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.fondo{
+    height: 100vh;
+    margin-left: 150px;
+}
+h3{
+    font-family: 'Staatliches', cursive;
+    font-size: 50px;
+}
+.fondo h3{
+    font-size: 100px;
+}
+.fondo h2{
+    font-size: 50px;
+    font-weight: 300;
+}
+.Descripcion h1,
+.Descripcion h1
+{
+    font-size: 50px;
+}
+.sesion-5{
+    background-image: url("../imagenes/fondo-sesion-5.jpg");
+    background-size: cover;
+    height: 280px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.sesion-5 h3{
+    margin-top: 100px;
+}
